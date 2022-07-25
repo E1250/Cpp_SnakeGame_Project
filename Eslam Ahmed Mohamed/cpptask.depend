@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1636138433 source:c:\users\lenovo\desktop\task.cpp
+	<graphics.h>
+
+1266090614 d:\src\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+

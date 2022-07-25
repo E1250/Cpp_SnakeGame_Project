@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1636290439 source:c:\users\lenovo\desktop\playground2\app.cpp
+	<graphics.h>
+
+1266090614 d:\src\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
